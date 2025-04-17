@@ -1,0 +1,7 @@
+name: RyoNoDropItems
+version: '${project.version}'
+main: Ryo.Ryo
+api-version: 1.20
+authors: [ Ryo ]
+description:
+  - 禁止丢弃物品
